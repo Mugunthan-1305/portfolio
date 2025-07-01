@@ -12,8 +12,8 @@ const Projects = () => {
       description: 'A dynamic, user-friendly gaming platform that integrates the RAW.G API to deliver a vast library of gaming data with technical status.',
       tech: ['React', 'Redux', 'JavaScript', 'RAW.G API', 'Axios'],
       image: '/lovable-uploads/28500e91-cdda-4c76-8fc1-959cdd4652a1.png',
-      liveLink: '#',
-      githubLink: '#',
+      liveLink: 'https://retrorifiti.netlify.app/',
+      githubLink: 'https://github.com/Mugunthan-1305/RetroRift',
       features: [
         'Interactive UI with React components',
         'Efficient state management with Redux',

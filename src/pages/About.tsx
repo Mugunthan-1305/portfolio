@@ -115,7 +115,7 @@ const About = () => {
                   <div className="text-gray-400 text-sm">Major Projects</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary">2+</div>
+                  <div className="text-3xl font-bold text-primary">1+</div>
                   <div className="text-gray-400 text-sm">Years Experience</div>
                 </div>
                 <div className="text-center">
