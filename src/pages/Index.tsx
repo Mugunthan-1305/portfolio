@@ -14,8 +14,8 @@ const Index = () => {
   const downloadResume = () => {
     // This would trigger download of your resume
     const link = document.createElement('a');
-    link.href = '/lovable-uploads/Mugunthan-Cv.pdf'; // You would add your resume PDF to public folder
-    link.download = 'Mugunthan-Cv';
+    link.href = '/lovable-uploads/Mugunthan_CV.pdf'; // You would add your resume PDF to public folder
+    link.download = 'Mugunthan_CV';
     link.click();
   };
 
